@@ -113,8 +113,6 @@ To design an embedded system that accurately monitors temperature, records times
 
 🛠 Proteus
 
-🛠 Flash Magic
-
 ---
 
 📷 Project Output
