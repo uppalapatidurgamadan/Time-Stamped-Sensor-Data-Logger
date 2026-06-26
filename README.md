@@ -119,9 +119,7 @@ To design an embedded system that accurately monitors temperature, records times
 
 📷 Project Output
 
-(Add your Proteus simulation screenshot here)
-
-(Add your UART output screenshot here)
+https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 
 ---
 
@@ -134,5 +132,7 @@ The **Time-Stamped Sensor Data Logger** provides an efficient solution for real-
 👨‍💻 Developed & Implemented By
 
 🏆 **Uppalapati Durga Madan**
+
+🆔 Vector ID: V25he4u2
 
 🎓 Embedded Systems Trainee | Vector India
