@@ -89,7 +89,7 @@ To design an embedded system that accurately monitors temperature, records times
 
 🛠 Hardware Requirements
 
-🔹 LPC2124 ARM7 Microcontroller
+🔹 LPC2129 ARM7 Microcontroller
 
 🔹 LM35 Temperature Sensor
 
