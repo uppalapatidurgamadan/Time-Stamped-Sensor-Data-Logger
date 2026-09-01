@@ -53,20 +53,15 @@ A keypad and external interrupt button are used to configure the RTC values and 
 
 ---
 
-## 🔄 System Working
-1. The system initializes LCD, ADC, RTC, UART, GPIO, keypad, and external interrupt.
-2. The LM35 sensor measures ambient temperature.
-3. The LPC2129 ADC converts the analog sensor voltage into a digital temperature value.
-4. RTC continuously provides the current time, date, day, month, and year.
-5. The LCD displays the current temperature and RTC data.
-6. The system compares the measured temperature with the configured temperature limit.
-7. If the temperature is within the limit, the system continues monitoring.
-8. If the temperature exceeds the limit:
-   - The LED turns ON as an alert.
-   - Temperature data is transmitted to the PC through UART.
-   - RTC information—time, date, day, month, and year—is transmitted with the temperature data.
-   - HyperTerminal receives and stores the alert information in a text file.
-9. Pressing the external interrupt button opens the configuration menu to update RTC values or the temperature limit.
+## Block Diagram
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/42a2c60c-501a-4f88-8252-23c1ac85958f" />
+
+---
+
+## 🔄 System Working Flow
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/32923b85-dded-4a17-a7f7-945407c0094b" />
 
 ---
 
