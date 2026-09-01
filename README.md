@@ -133,27 +133,27 @@ https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 ---
 
 📂 Project Folder Structure
-Time-Stamped-Sensor-Data-Logger/
-│
-├── main.c
-├── adc.c
-├── rtc.c
-├── uart.c
-├── lcd.c
-├── keypad.c
-├── interrupt.c
-├── gpio.c
-│
-├── include/
-│   ├── adc.h
-│   ├── rtc.h
-│   ├── uart.h
-│   ├── lcd.h
-│   ├── keypad.h
-│   └── gpio.h
-│
-├── README.md
-└── LICENSE
+Time-Stamped-Sensor-Data-Logger/\
+│\
+├── main.c\
+├── adc.c\
+├── rtc.c\
+├── uart.c\
+├── lcd.c\
+├── keypad.c\
+├── interrupt.c\
+├── gpio.c\
+│\
+├── include/\
+│   ├── adc.h\
+│   ├── rtc.h\
+│   ├── uart.h\
+│   ├── lcd.h\
+│   ├── keypad.h\
+│   └── gpio.h\
+│\
+├── README.md\
+└── LICENSE\
 
 ---
 
