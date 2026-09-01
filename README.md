@@ -132,6 +132,31 @@ https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 
 ---
 
+📂 Project Folder Structure
+Time-Stamped-Sensor-Data-Logger/
+│
+├── main.c
+├── adc.c
+├── rtc.c
+├── uart.c
+├── lcd.c
+├── keypad.c
+├── interrupt.c
+├── gpio.c
+│
+├── include/
+│   ├── adc.h
+│   ├── rtc.h
+│   ├── uart.h
+│   ├── lcd.h
+│   ├── keypad.h
+│   └── gpio.h
+│
+├── README.md
+└── LICENSE
+
+---
+
 ## 📌 Conclusion
 
 The Time-Stamped Sensor Data Logger provides an efficient solution for temperature monitoring and over-temperature event logging. When the temperature crosses the configured limit, the system captures temperature and complete RTC data, sends it to a PC using UART, and stores it as a text file through HyperTerminal. This makes the project useful for temperature-sensitive industrial, laboratory, environmental, and educational applications.
