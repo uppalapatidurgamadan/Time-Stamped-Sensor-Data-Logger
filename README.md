@@ -1,10 +1,8 @@
-🌡️ Time-Stamped Sensor Data Logger
-
-⏱️ Real-Time Temperature Monitoring • RTC-Based Data Logging • UART Communication
+# 🌡️ Time-Stamped Sensor Data Logger
 
 ---
 
-🧠 Project Overview
+## 📌 Project Overview
 
 **Time-Stamped Sensor Data Logger** is an intelligent embedded system that continuously monitors ambient temperature using an **LM35 sensor** and records it with accurate **date and time** using the **Real-Time Clock (RTC)**. By integrating **ADC, RTC, UART, LCD, and interrupt-based configuration**, the system enables real-time monitoring, timestamped data logging, and automatic over-temperature alerts, making it suitable for environmental and industrial monitoring applications.
 
