@@ -107,6 +107,17 @@ https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 
 ---
 
+## 🚀 Advantages
+
+| Benefit | Description |
+|---|---|
+| Accurate Monitoring | Continuously measures ambient temperature using LM35. |
+| Time-Stamped Logging | Records temperature with RTC time, date, day, month, and year. |
+| Automatic Alert | LED activates when temperature exceeds the configured limit. |
+| PC Data Storage | UART sends alert data to HyperTerminal, which stores it in a text file. |
+| Configurable System | Temperature limit and RTC values can be set using the keypad. |
+
+---
 ## 🚀 Applications
 - 🏭 Industrial machine temperature monitoring
 - 🧪 Laboratory equipment monitoring
@@ -115,6 +126,7 @@ https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 - 🔥 Overheat detection systems
 - 📦 Warehouse condition monitoring
 - 🎓 Embedded systems education
+  
 ## 🔮 Future Enhancements
 - 💾 SD-card data logging
 - 🌐 IoT cloud dashboard integration
