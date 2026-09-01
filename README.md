@@ -5,7 +5,9 @@
 ## 📌 Project Overview
 
 The **Time-Stamped Sensor Data Logger** is an intelligent embedded system designed using the LPC2129 ARM7 microcontroller. It continuously monitors ambient temperature using an LM35 temperature sensor and obtains accurate timestamp information—including time, date, day, month, and year—from the on-chip Real-Time Clock (RTC). \
+
 The system displays live temperature and RTC information on a 16×2 LCD. When the measured temperature exceeds a user-configured limit, the system activates an LED alert and transmits the temperature data along with complete RTC details to a PC through the UART protocol. The received data is stored in a text file using the HyperTerminal application. \
+
 A keypad and external interrupt button are used to configure the RTC values and temperature threshold.
 
 ---
