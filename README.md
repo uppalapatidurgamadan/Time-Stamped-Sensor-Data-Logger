@@ -139,28 +139,41 @@ https://github.com/user-attachments/assets/f9624b40-62b6-4226-bd46-7dab133c34a6
 
 ---
 
-📂 Project Folder Structure
+## 📂 Project Folder Structure
+
 Time-Stamped-Sensor-Data-Logger/\
 │\
-├── main.c\
-├── adc.c\
-├── rtc.c\
-├── uart.c\
-├── lcd.c\
-├── keypad.c\
-├── interrupt.c\
-├── gpio.c\
-│\
-├── include/\
+├── header files/\
 │   ├── adc.h\
-│   ├── rtc.h\
-│   ├── uart.h\
-│   ├── lcd.h\
-│   ├── keypad.h\
-│   └── gpio.h\
+│   ├── adc_defines.h\
+│   ├── cust_degree.h\
+│   ├── defines.h\
+│   ├── defines_adc.h\
+│   ├── delay.h\
+│   ├── keypad_defines.h\
+│   ├── lcdtotal.h\
+│   ├── lm35.h\
+│   ├── rtc_defines.h\
+│   ├── total_main.h\
+│   ├── types.h\
+│   └── uart.h\
+│\
+├── source files/\
+│   ├── adc.c\
+│   ├── cust_degree.c\
+│   ├── delay.c\
+│   ├── keypad_new.c\
+│   ├── lcdtotal.c\
+│   ├── main_lm35_lcd.c\
+│   ├── main_rtc.c\
+│   ├── menu.c\
+│   ├── rtc.c\
+│   ├── total_main.c\
+│   ├── uart.c\
+│   └── uart_disp_alert.c\
 │\
 ├── README.md\
-└── LICENSE\
+└── LICENSE
 
 ---
 
