@@ -29,7 +29,7 @@ A keypad and external interrupt button are used to configure the RTC values and 
 
 | Component | Quantity | Purpose |
 |---|---:|---|
-| LPC2129 ARM7 MCU | 1 | Main controller |
+| LPC2129 ARM7 MCU | 1 | controller |
 | LM35 Temperature Sensor | 1 | Measures ambient temperature |
 | 16×2 LCD | 1 | Displays temperature and RTC values |
 | 4×4 Matrix Keypad | 1 | Configures time, date, and threshold |
