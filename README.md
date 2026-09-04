@@ -55,8 +55,8 @@ A keypad and external interrupt button are used to configure the RTC values and 
 
 ## Block Diagram
 
- <img width="1536" height="1024" alt="file_000000008948822fa1ae7664bf2a6a82" src="https://github.com/user-attachments/assets/f7f2aaa1-e5fc-44bf-886a-9531a9c2e28e" />
 
+<img width="1536" height="1024" alt="file_000000009adc8207a458f855cf30d7f3" src="https://github.com/user-attachments/assets/355f2851-44e1-4c78-9633-24b908f64749" />
 
 
 ---
